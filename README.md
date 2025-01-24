@@ -28,7 +28,7 @@ This project is a user-friendly PDF Summarization Tool that extracts text from P
 1: Clone the Repository:
 
 ```bash
-  git clone https://github.com/harshsam29/pdf-summarization-tool.git
+  git clone https://github.com/harshsam29/PDF_summarization_using_Langchain1.git
   cd pdf-summarization-tool
 
 ```
